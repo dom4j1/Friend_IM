@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="pathanim-1.0.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/8391690fd4a5acc84f6f474650fc96c2f0580024/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/8391690fd4a5acc84f6f474650fc96c2f0580024/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/8391690fd4a5acc84f6f474650fc96c2f0580024/output/jars/libs/nineoldandroids-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fancy.library/pathanim/1.0.1/707acf3291105d1057b540e55b070f1f8a2d16cb/pathanim-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
